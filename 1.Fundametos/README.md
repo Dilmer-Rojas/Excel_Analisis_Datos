@@ -36,4 +36,60 @@ Pero con atajos de teclado, ¡es como conducir un Ferrari! 🏎️💨
 
 ---
 
-Ahora dime, ¿seguimos con **Tipos de Datos** o quieres más atajos y chistes? 😆
+¡Me encanta tu estilo! Sigamos con más **atajos y chistes** para dominar Excel como un verdadero ninja de los datos. 🥷📊  
+
+---
+
+## **🔹 Más Atajos Clave para Trabajar como un PRO**  
+
+🤓 **Edición rápida:**  
+- **Ctrl + X** → Cortar (como cuando alguien te deja en visto y decides desaparecer 🫥).  
+- **Ctrl + D** → Copia el contenido de la celda superior hacia abajo (porque repetir es más fácil que pensar 🤷‍♂️).  
+- **Ctrl + R** → Copia la celda de la izquierda hacia la derecha (ideal para cuando te da flojera escribir lo mismo varias veces 😆).  
+
+💡 **Ejemplo:**  
+1️⃣ Escribe "¡Excel es genial!" en la celda A1.  
+2️⃣ Baja a A2 y presiona **Ctrl + D** → ¡Boom! Se copia mágicamente.  
+3️⃣ Ve a la celda B1 y prueba **Ctrl + R** → Magia lateral.  
+
+**Chiste de Excel:**  
+— ¿Por qué Excel nunca se deprime?  
+— Porque siempre tiene muchas hojas para empezar de nuevo. 😆  
+
+---
+
+📊 **Manejo de filas y columnas como un jefe**  
+- **Ctrl + Espacio** → Selecciona toda la columna (como cuando necesitas encontrar a todos los culpables en una investigación 🕵️).  
+- **Shift + Espacio** → Selecciona toda la fila (ideal para cuando quieres llevarte a toda la familia de viaje ✈️).  
+- **Ctrl + “+”** → Insertar una fila o columna (porque siempre hay espacio para más problemas 🤡).  
+- **Ctrl + “-”** → Eliminar una fila o columna (adiós a lo que no sirve, como tu ex 😆).  
+
+💡 **Ejercicio:**  
+1️⃣ Prueba **Ctrl + Espacio** en cualquier celda y observa cómo se selecciona la columna.  
+2️⃣ Prueba **Shift + Espacio** y verás cómo toda la fila es tuya.  
+3️⃣ Inserta una fila con **Ctrl + "+"** → ¡Pum! Más espacio para errores 😆.  
+4️⃣ Elimina una fila con **Ctrl + "-"** → ¡Listo! Como si nunca hubiera existido.  
+
+**Chiste de Excel:**  
+— Mamá, ¿qué es un PRO en Excel?  
+— Alguien que sabe usar BUSCARV… sin buscar en Google. 😂  
+
+---
+
+🔥 **Atajos de navegación (Muévete como un hacker)**  
+- **Ctrl + → (Flecha derecha)** → Ir al último dato de la fila (como correr al final del buffet 🍽️).  
+- **Ctrl + ↓ (Flecha abajo)** → Ir al último dato de la columna (como cuando caes en el pozo de procrastinación 📉).  
+- **Ctrl + Home** → Ir a la celda A1 (como volver a casa después de un viaje largo 🏡).  
+- **Ctrl + End** → Ir a la última celda con datos (ideal para ver hasta dónde llegó tu desastre 🤯).  
+
+💡 **Ejercicio:**  
+1️⃣ Escribe datos en una tabla grande.  
+2️⃣ Usa **Ctrl + ↓** para ver hasta dónde llegan los datos.  
+3️⃣ Usa **Ctrl + Home** para regresar como si nada hubiera pasado.  
+4️⃣ Experimenta con **Ctrl + →, Ctrl + End** y navega como un experto.  
+
+**Chiste de Excel:**  
+— ¿Por qué Excel nunca tiene ansiedad?  
+— Porque siempre tiene un **Ctrl + Z** para corregir sus errores. 😂  
+
+---
