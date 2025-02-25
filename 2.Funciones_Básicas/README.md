@@ -10,7 +10,7 @@ Las funciones básicas se dividen en:
 🔹 **Matemáticas:** SUMA, PROMEDIO, MAX, MIN, CONTAR, CONTARA  
 🔹 **Condicionales:** SI, SI.ERROR, SI.CONJUNTO  
 🔹 **Texto:** IZQUIERDA, DERECHA, EXTRAE, CONCATENAR, SUSTITUIR, MAYUSC, MINUSC  
-🔹 **Fecha y Hora:** HOY, AHORA, AÑO, MES, DÍA, DIASEM, FECHA.DI
+🔹 **Fecha y Hora:** HOY, AHORA, AÑO, MES, DÍA, DIASEM, FECHA.DIF
 
 ¡Vamos con las más usadas!  
 
