@@ -13,7 +13,7 @@ Voy a guiarte para que lo crees manualmente en **menos de 2 minutos**. ⏳
 
 ---
 
-## **📌 Cómo crear el archivo de Funciones Avanzadas en Excel**  
+## **📌 Cómo crear el archivo de Funciones Avanzadas en Exce**  
 
 1️⃣ **Abre Excel** y **crea un nuevo archivo**.  
 2️⃣ **Crea 3 hojas** y asígnales los siguientes nombres:  
