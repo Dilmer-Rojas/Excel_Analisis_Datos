@@ -67,7 +67,7 @@ Si tienes una hoja donde la gente debe escribir datos correctos, usa **validaci�
 🔹 **Ejemplo: Crear una lista desplegable**  
 1️⃣ Ve a **Datos > Validación de Datos**.  
 2️⃣ Elige **Lista** como criterio.  
-3️⃣ En "Origen", escribe los valores permitidos (ejemplo: “Aprobado, Reprobado”).  
+3️⃣ En "Origen", escribe los valores permitidos (ejemplo: Aprobado; Reprobado).  
 4️⃣ Pulsa **Aceptar** y ahora solo podrán elegir esas opciones.  
 
 📢 **Chiste de Validación:**  
